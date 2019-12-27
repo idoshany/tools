@@ -1,1 +1,1 @@
-Some Script That i'll write
+Some Scripts That i'll write
