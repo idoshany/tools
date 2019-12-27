@@ -1,5 +1,5 @@
 #!/bin/bash
-date=$(str)
+str=$(date)
 echo "$str"
 git add -A 
 git status
